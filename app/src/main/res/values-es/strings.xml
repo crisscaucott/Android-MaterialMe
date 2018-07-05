@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Material Me!</string>
+    <string name="title_placeholder">Título</string>
+    <string name="news_placeholder">Noticias</string>
+    <string name="sports_info_placeholder">Aquí le tenemos noticias</string>
+    <string name="subTitleDetailPlaceHolder">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+
+    <string-array name="sports_titles">
+        <item>Beisbol</item>
+        <item>Badminton</item>
+        <item>Basketbol</item>
+        <item>Bowling</item>
+        <item>Ciclismo</item>
+        <item>Golf</item>
+        <item>Correr</item>
+        <item>Futbol</item>
+        <item>Natación</item>
+        <item>Ping Pong</item>
+        <item>Tenis</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>Aquí le tenemos noticias de Beisbol</item>
+        <item>Aquí le tenemos noticias de Badminton</item>
+        <item>Aquí le tenemos noticias de Basketbol</item>
+        <item>Aquí le tenemos noticias de Bowling</item>
+        <item>Aquí le tenemos noticias de Ciclismo</item>
+        <item>Aquí le tenemos noticias de Golf</item>
+        <item>Aquí le tenemos noticias de Correr</item>
+        <item>Aquí le tenemos noticias de Futbol</item>
+        <item>Aquí le tenemos noticias de Natación</item>
+        <item>Aquí le tenemos noticias de Ping Pong</item>
+        <item>Aquí le tenemos noticias de Tenis</item>
+    </string-array>
+
+    <array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+</resources>

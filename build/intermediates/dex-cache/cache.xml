@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_df017b07748c3338037bfc36493be62353032e37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_82736ded1276e848bca9d3db13f0afdec581205b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_d47ffd7df3c5420f8aad924da7f054d7c09adef5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0e1ed30f074bdd256b785406cb6aad6ed4e98435.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ccaucott/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.2/bfc967828daffc35ba01c9ee204d98b664930a0f/constraint-layout-solver-1.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="bfc967828daffc35ba01c9ee204d98b664930a0f">
+        <dex dex="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.1.2_8dd15c7bc31e0cc8169ad0d7e0b989c9b8e51efc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_ddd0bb1eae55a3d35c4c6b83f20d6082450be74a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ccaucott/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_a7b8c4ccda7915c71f10e51465e06c7539897818.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_af209f118901ad2b01bbef1ad5192a477254f866.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_1e5c8430694ffa6b56f8cc4f26996437f4be6759.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ccaucott/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/glide-3.7.0_cc36b58a04eb836fee7679cd458c87f01d8d5877.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_7c7f07cc5ceae5036d14b81058726e2a925bde97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.1.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="182370a4a0bba7903c6ff2cb7b6ac21ca4a4bf89">
+        <dex dex="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.1.2_e02e9ac211d89fabb523069a6cd193f8ab90dcba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_394e3cdf2d70c6b0aa44862df7b19b7174cfce9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_ecf9780bae27e830ce36f1decdacb3f0e6627efa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_0c9566bd0fa02f4f5dc6f50df35cf50badfee06f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_0693d5fdc022ed7cbdffa8ce881db9a9524b7508.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_190f23aae992626c22835514a4c2da8b9a946f1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.1_5d95e2e1578219e8c434c3361739f67b770413a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_8955d89b74da7f12020e401f77e2ae6ba86af8d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_16720c5135361df07472795da0167e2a28a22def.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/ccaucott/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_084775b727c4f598e4516efc3fc0612a4630cbcb.jar" />
+    </item>
+
+</items>
