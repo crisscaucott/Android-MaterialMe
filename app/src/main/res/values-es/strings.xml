@@ -14,24 +14,24 @@
         <item>Ciclismo</item>
         <item>Golf</item>
         <item>Correr</item>
-        <item>Futbol</item>
+        <item>Fútbol</item>
         <item>Natación</item>
         <item>Ping Pong</item>
         <item>Tenis</item>
     </string-array>
 
     <string-array name="sports_info">
-        <item>Aquí le tenemos noticias de Beisbol</item>
-        <item>Aquí le tenemos noticias de Badminton</item>
-        <item>Aquí le tenemos noticias de Basketbol</item>
-        <item>Aquí le tenemos noticias de Bowling</item>
-        <item>Aquí le tenemos noticias de Ciclismo</item>
-        <item>Aquí le tenemos noticias de Golf</item>
-        <item>Aquí le tenemos noticias de Correr</item>
-        <item>Aquí le tenemos noticias de Futbol</item>
-        <item>Aquí le tenemos noticias de Natación</item>
-        <item>Aquí le tenemos noticias de Ping Pong</item>
-        <item>Aquí le tenemos noticias de Tenis</item>
+        <item>Aquí hay algunas noticias de Beisbol</item>
+        <item>Aquí hay algunas noticias de Badminton</item>
+        <item>Aquí hay algunas noticias de Basketbol</item>
+        <item>Aquí hay algunas noticias de Bowling</item>
+        <item>Aquí hay algunas noticias de Ciclismo</item>
+        <item>Aquí hay algunas noticias de Golf</item>
+        <item>Aquí hay algunas noticias de Correr</item>
+        <item>Aquí hay algunas noticias de Fútbol</item>
+        <item>Aquí hay algunas noticias de Natación</item>
+        <item>Aquí hay algunas noticias de Ping Pong</item>
+        <item>Aquí hay algunas noticias de Tenis</item>
     </string-array>
 
     <array name="sports_images">
